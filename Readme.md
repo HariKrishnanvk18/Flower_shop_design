@@ -32,7 +32,7 @@ The design focuses on simplicity, responsiveness, and an engaging user experienc
 
 ### Homepage
 
-![Homepage](screenshots/home(1).jpeg)
+![Homepage](screenshots/homepage.jpeg)
 
 ### Products Section
 
