@@ -110,31 +110,6 @@ flower-market/
 
 ---
 
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/flower-market.git
-```
-
-### Open Project
-
-```bash
-cd flower-market
-```
-
-### Run
-
-Simply open:
-
-```text
-index.html
-```
-
-in your browser.
-
----
 
 ## 📱 Responsive Design
 
@@ -168,7 +143,7 @@ This project is inspired by traditional Indian flower markets and modern online 
 
 ## 👨‍💻 Author
 
-Hari
+**Hari krishnan A**
 
 Frontend Developer
 
